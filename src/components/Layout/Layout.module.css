@@ -1,0 +1,6 @@
+.layout{
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: minmax(100px,150px) 1fr;
+    
+}
